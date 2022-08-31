@@ -10,3 +10,4 @@ GCMのインストールした
 hoge
 hoge
 test
+test
